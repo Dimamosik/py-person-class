@@ -1,4 +1,5 @@
 class Person:
+
     people = {}
 
     def __init__(self, name, age):
